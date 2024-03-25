@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5EB42784-2268-4E72-87D8-FD842E59D316}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\namng\Downloads\global.json = C:\Users\namng\Downloads\global.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D8864EA9-B143-4E3C-BA1C-5DDA395723AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateways", "ApiGateways", "{CDE27761-E966-4AB0-8986-94B4F18186B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{F1B48488-9069-4A15-9C22-90A275ECA75A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApps", "WebApps", "{FEF7C147-D8DC-41EA-B2CD-9E5754E31DD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{E76DF78C-C1BE-4B91-836F-D338DB741D1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{FAAB982B-EE60-43A1-A734-138AAC17A785}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CDE27761-E966-4AB0-8986-94B4F18186B3} = {D8864EA9-B143-4E3C-BA1C-5DDA395723AF}
+		{F1B48488-9069-4A15-9C22-90A275ECA75A} = {D8864EA9-B143-4E3C-BA1C-5DDA395723AF}
+		{FEF7C147-D8DC-41EA-B2CD-9E5754E31DD7} = {D8864EA9-B143-4E3C-BA1C-5DDA395723AF}
+		{E76DF78C-C1BE-4B91-836F-D338DB741D1B} = {D8864EA9-B143-4E3C-BA1C-5DDA395723AF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC83E505-A05A-4051-B42C-22B5B553237D}
+	EndGlobalSection
+EndGlobal

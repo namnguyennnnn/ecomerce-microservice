@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ifaj6z3YlLXL5bc9RF4/BOC4sGQUsYXgQsiX9F6LsDvV3NetiXWPXzxOz8wdJGQ9OqmzcavjNn+j4Tf0Zc/TzA==",
+  "success": true,
+  "projectFilePath": "D:\\hoctap\\ecommerce-microservice\\src\\Services\\Product.API\\Product.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\namng\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\namng\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\namng\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\namng\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\namng\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\namng\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
