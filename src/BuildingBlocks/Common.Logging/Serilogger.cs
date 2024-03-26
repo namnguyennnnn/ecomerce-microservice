@@ -1,6 +1,6 @@
 ﻿namespace Common.Logging
 {
-    public class Class1
+    public class Serilogger
     {
 
     }
