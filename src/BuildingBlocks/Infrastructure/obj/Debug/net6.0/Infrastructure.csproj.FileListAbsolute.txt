@@ -1,0 +1,11 @@
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
