@@ -5,6 +5,12 @@ D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Produ
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Product.API.runtimeconfig.json
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Product.API.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Product.API.pdb
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Humanizer.dll
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
@@ -18,8 +24,11 @@ D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Micro
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Serilog.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
@@ -34,6 +43,10 @@ D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Syste
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\System.Text.Json.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Common.Logging.dll
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Contracts.dll
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Common.Logging.pdb
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Contracts.pdb
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\obj\Debug\net6.0\Product.API.csproj.AssemblyReference.cache
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\obj\Debug\net6.0\Product.API.GeneratedMSBuildEditorConfig.editorconfig
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\obj\Debug\net6.0\Product.API.AssemblyInfoInputs.cache
@@ -55,6 +68,3 @@ D:\hoctap\ecommerce-microservice\src\Services\Product.API\obj\Debug\net6.0\refin
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\obj\Debug\net6.0\Product.API.pdb
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\obj\Debug\net6.0\Product.API.genruntimeconfig.cache
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\obj\Debug\net6.0\ref\Product.API.dll
-D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
-D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Common.Logging.dll
-D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Common.Logging.pdb

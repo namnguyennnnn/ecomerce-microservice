@@ -4,12 +4,11 @@ using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Host.UseSerilog(Serilogger.Configure);
-
 Log.Information("Start Basket API up");
 
 try
 {
+    builder.Host.UseSerilog(Serilogger.Configure);
     // Add services to the container.
     builder.Services.AddControllers();
     // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
