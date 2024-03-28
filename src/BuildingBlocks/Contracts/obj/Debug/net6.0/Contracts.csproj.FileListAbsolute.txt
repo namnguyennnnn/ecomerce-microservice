@@ -9,3 +9,4 @@ D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Contracts\obj\Debug\net6.0\C
 D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Contracts\obj\Debug\net6.0\refint\Contracts.dll
 D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Contracts\obj\Debug\net6.0\Contracts.pdb
 D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache

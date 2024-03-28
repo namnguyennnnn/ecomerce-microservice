@@ -9,3 +9,7 @@ D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net
 D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
 D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
 D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\bin\Debug\net6.0\Contracts.dll
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\bin\Debug\net6.0\Contracts.pdb
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
