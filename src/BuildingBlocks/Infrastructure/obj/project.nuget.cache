@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dfhYyY8cWB+YoeMLttdmIBPdV+BrqtgxAc33DNoZ2ZUDj535DOMTml/BtU6r1+IkePbbjREE6Ps/6mPsoucjgw==",
+  "dgSpecHash": "Wu7c/kip+Iatjv5ljIyvi61kUY0A2HfecnhHuzp64GZeT7wL7ZPGMBS3jAKr++5ys8fbvBOVBIvDGLD+Of9VbA==",
   "success": true,
   "projectFilePath": "D:\\hoctap\\ecommerce-microservice\\src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\namng\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\namng\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.28\\microsoft.entityframeworkcore.6.0.28.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.28\\microsoft.entityframeworkcore.abstractions.6.0.28.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.28\\microsoft.entityframeworkcore.analyzers.6.0.28.nupkg.sha512",

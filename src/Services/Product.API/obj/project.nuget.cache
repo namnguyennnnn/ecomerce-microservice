@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "z2ohDRahDgPuIKR7AXEUdKazbQXcqGh1XqS5ayoIQiSqKkTSwHHaM2Raf2dB7yq+2sYlOJlSUfFlIrB0QUiXKA==",
+  "dgSpecHash": "pvgDZ+zRg9QJOEFV7JZ8mUdlNrhKyiibiMyXS6ENzCIlcWyuBBRF46NeyBYrm31a6fAWaxiRvCUJCAzJKzwoKA==",
   "success": true,
   "projectFilePath": "D:\\hoctap\\ecommerce-microservice\\src\\Services\\Product.API\\Product.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\namng\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\namng\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\namng\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.28\\microsoft.entityframeworkcore.6.0.28.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.28\\microsoft.entityframeworkcore.abstractions.6.0.28.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.28\\microsoft.entityframeworkcore.analyzers.6.0.28.nupkg.sha512",

@@ -70,3 +70,7 @@ D:\hoctap\ecommerce-microservice\src\Services\Product.API\obj\Debug\net6.0\Produ
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\obj\Debug\net6.0\ref\Product.API.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Infrastructure.dll
 D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Infrastructure.pdb
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\AutoMapper.dll
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Shared.dll
+D:\hoctap\ecommerce-microservice\src\Services\Product.API\bin\Debug\net6.0\Shared.pdb
