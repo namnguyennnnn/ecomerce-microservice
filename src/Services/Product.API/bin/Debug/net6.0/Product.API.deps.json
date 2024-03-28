@@ -10,6 +10,7 @@
         "dependencies": {
           "Common.Logging": "1.0.0",
           "Contracts": "1.0.0",
+          "Infrastructure": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.28",
           "Microsoft.EntityFrameworkCore.Design": "6.0.28",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.28",
@@ -492,8 +493,19 @@
         }
       },
       "Contracts/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.28"
+        },
         "runtime": {
           "Contracts.dll": {}
+        }
+      },
+      "Infrastructure/1.0.0": {
+        "dependencies": {
+          "Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Infrastructure.dll": {}
         }
       }
     }
@@ -818,6 +830,11 @@
       "sha512": ""
     },
     "Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

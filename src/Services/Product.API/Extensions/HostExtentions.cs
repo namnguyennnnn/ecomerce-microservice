@@ -19,7 +19,10 @@ namespace Product.API.Extensions
                     ExecuteMigrations(context);
                     logger.LogInformation("Migarted Product database.");
                     InvokeSeeder(seeder, context, services);
-                }catch (Exception ex) { }
+                }catch (Exception ex) 
+                {
+                    logger.LogError(ex, "An error occurred while migrating the mysql database");
+                }
             }
 
             return host;
