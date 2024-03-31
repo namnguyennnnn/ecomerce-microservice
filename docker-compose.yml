@@ -32,8 +32,15 @@ services:
 
   kibana:
     image: docker.elastic.co/kibana/kibana:7.17.18
-      
-#network section
+
+# microservice api section
+  product.api:
+    image: ${DOCKER_REGISTRY-}product-api
+    build: 
+      context: .
+      dockerfile: src/Services/Product.API/Dockerfile
+
+#network sections
 networks:
   default:
     name: ecommerce_microservices
@@ -65,3 +72,4 @@ volumes:
 
   pgadmin_data:
     name: pgadmin_data
+

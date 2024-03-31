@@ -1,6 +1,4 @@
 ﻿using AutoMapper;
-using Contracts.Common;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Product.API.Entities;
@@ -44,6 +42,9 @@ namespace Product.API.Controllers
         [HttpPost("create-product")]
         public async Task<IActionResult> CreateProducts([FromBody]CreateProductDto createProductDto)
         {
+            var productEntity = await _repository.GetProductByNo(createProductDto.No);
+            if(productEntity != null) return BadRequest(error:$"Product No: {createProductDto.No} is exist.");
+
             var product = _mapper.Map<CatalogProduct>(createProductDto);
             await _repository.CreateProduct(product);
             await _repository.SaveChangesAsync();
