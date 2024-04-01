@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2Ec9d2E+qVMSkVZAO2FK9O8Zrhti1azA69yNx/KQg470LaZGXJF06mNkbK/4Pb82UlUEWLgUspRZt1f1AyVX4w==",
+  "dgSpecHash": "NXiQg0NMbo7fYhdbP7hqM5wB/cyvOrVxcRaP4bOvIiQZQwnucI3JdX6qDZcGeJCe5rDw6UjsQsbyvKG44LEBfQ==",
   "success": true,
   "projectFilePath": "D:\\hoctap\\ecommerce-microservice\\src\\Services\\Customer.API\\Customer.API.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\namng\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\npgsql\\6.0.10\\npgsql.6.0.10.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.22\\npgsql.entityframeworkcore.postgresql.6.0.22.nupkg.sha512",
     "C:\\Users\\namng\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",

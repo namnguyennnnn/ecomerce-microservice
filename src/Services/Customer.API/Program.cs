@@ -1,7 +1,7 @@
-using AutoMapper;
 using Common.Logging;
 using Contracts.Common;
 using Customer.API;
+using Customer.API.Controllers;
 using Customer.API.Persistence;
 using Customer.API.Repositories;
 using Customer.API.Repositories.Interfaces;
@@ -10,13 +10,13 @@ using Customer.API.Services.Interfaces;
 using Infrastructure.Common;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
-using Shared.DTOs.Customer;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Host.UseSerilog(Serilogger.Configure);
 
-Log.Information("Start Customer API up");
+Log.Information($"Start {builder.Environment.ApplicationName} up");
 
 try
 {
@@ -36,29 +36,17 @@ try
     builder.Services.AddAutoMapper(cfg => cfg.AddProfile(new MappingProfile()));
     var app = builder.Build();
 
-    //api enponit
-    app.MapGet("/", () => "Welcome to customer minimal api");
-
-    app.MapGet("api/customers",
-        async (ICustomerService customerService) => await customerService.GetCustomersAsync());
-
-    app.MapGet("api/customers/{userName}", async (string userName, ICustomerService customerService) => await customerService.GetCustomerByUserNameAsync(userName));
-
-
-    app.MapPost("api/customer/create-customer", async (CreateCustomerDto createCustomerDto, ICustomerService customerService) => await customerService.CreateCustomerAsync(createCustomerDto));
-
-    app.MapPut("api/customer/update-customer/{id}", async (int id,UpdateCustomerDto updateCustomerDto, ICustomerService customerService) => await customerService.UpdateCustomerAsync(id,updateCustomerDto));
-
-    app.MapDelete("api/customer/delete-customer/{id}", async (int id, ICustomerService customerService) => await customerService.DeleteCustomerAsync(id));
+    app.MapCustomersAPI();
 
     // Configure the HTTP request pipeline.
     if (app.Environment.IsDevelopment())
     {
         app.UseSwagger();
-        app.UseSwaggerUI();
+        app.UseSwaggerUI(C => C.SwaggerEndpoint(url: "/swagger/v1/swagger.json",
+            $"{builder.Environment.ApplicationName}v1"));
     }
 
-    app.UseHttpsRedirection();
+    //app.UseHttpsRedirection();
 
     app.UseAuthorization();
 
@@ -76,6 +64,6 @@ catch (Exception ex)
 }
 finally
 {
-    Log.Information("Shut down Customer API complete");
+    Log.Information($"Shut down {builder.Environment.ApplicationName} complete");
     Log.CloseAndFlush();
 }
