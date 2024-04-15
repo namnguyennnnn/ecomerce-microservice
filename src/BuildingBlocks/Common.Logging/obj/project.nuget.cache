@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uQxjOb+5cFPisMsFn7sN+MebGul/iQUIC/h3Cbs8vOHRSXb58bhrua9cSX+YVbInFzwewBgKeWlhlLwlFuDy/w==",
+  "dgSpecHash": "f8f7VFCqgT+Vl8Io5IFeVG6ou+Rri6MYerY6mAF6jMsscjgVkQ4UaxbQWRyamyFWIatG9B0rf+rG7+ls3yAyJw==",
   "success": true,
   "projectFilePath": "D:\\hoctap\\ecommerce-microservice\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
   "expectedPackageFiles": [

@@ -10,3 +10,4 @@ D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net
 D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net6.0\refint\Common.Logging.dll
 D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net6.0\Common.Logging.pdb
 D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net6.0\ref\Common.Logging.dll
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Common.Logging\obj\Debug\net6.0\Common.Logging.sourcelink.json

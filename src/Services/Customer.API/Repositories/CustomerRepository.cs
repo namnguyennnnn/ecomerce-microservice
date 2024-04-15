@@ -19,7 +19,7 @@ namespace Customer.API.Repositories
         public async Task DeleteCustommerByIdAsync(int id)
         {
             var customerExist = await FindByCondition(x => x.Id.Equals(id)).SingleOrDefaultAsync();
-            if (customerExist != null) DeleteAsync(customerExist);
+            if (customerExist != null) await DeleteAsync(customerExist);
         }
 
         public Task<Entities.Customer> GetCustomerbyIdAsync(int id) =>

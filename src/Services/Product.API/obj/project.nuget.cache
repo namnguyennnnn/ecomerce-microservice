@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BPTOz01T2yDxbMfoO9UILU6t0CAb/4AaBy0I3uI/mpQA2sz/3QaZB37GjIVCxWWrLk/z+Ip1+en2r2TSUZHGXg==",
+  "dgSpecHash": "P+82FiPfJsb/Wtvh0AgVc1kksjEXTFLp7umrzmvY7pSqDUG1u8ll2BwH1DV5vhv0g3QdlzrZZSpywF0HvkLk+A==",
   "success": true,
   "projectFilePath": "D:\\hoctap\\ecommerce-microservice\\src\\Services\\Product.API\\Product.API.csproj",
   "expectedPackageFiles": [

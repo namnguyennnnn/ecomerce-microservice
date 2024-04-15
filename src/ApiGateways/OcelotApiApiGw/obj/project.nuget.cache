@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rbllQHjgUyjoAA0seO3qHpGzuTAh0/ORGOJdtkIfhspzgWtUyAmk9YQKpHUZmZkL8fZb5L9UOkA/FpnHib/HyQ==",
+  "dgSpecHash": "ke16LmdWaZJtzMWijDHu55jIBFcMoCtWMUKOfd8ldq6SfBjcKm5knENn/rwJMEV8hBll2KBcbiA6ldwAhxxBsg==",
   "success": true,
   "projectFilePath": "D:\\hoctap\\ecommerce-microservice\\src\\ApiGateways\\OcelotApiApiGw\\OcelotApiApiGw.csproj",
   "expectedPackageFiles": [

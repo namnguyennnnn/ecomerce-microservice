@@ -24,7 +24,6 @@ D:\hoctap\ecommerce-microservice\src\Services\Basket.API\obj\Debug\net6.0\static
 D:\hoctap\ecommerce-microservice\src\Services\Basket.API\obj\Debug\net6.0\staticwebassets.build.json
 D:\hoctap\ecommerce-microservice\src\Services\Basket.API\obj\Debug\net6.0\staticwebassets.development.json
 D:\hoctap\ecommerce-microservice\src\Services\Basket.API\obj\Debug\net6.0\scopedcss\bundle\Basket.API.styles.css
-D:\hoctap\ecommerce-microservice\src\Services\Basket.API\obj\Debug\net6.0\Basket.API.csproj.CopyComplete
 D:\hoctap\ecommerce-microservice\src\Services\Basket.API\obj\Debug\net6.0\Basket.API.dll
 D:\hoctap\ecommerce-microservice\src\Services\Basket.API\obj\Debug\net6.0\refint\Basket.API.dll
 D:\hoctap\ecommerce-microservice\src\Services\Basket.API\obj\Debug\net6.0\Basket.API.pdb
@@ -74,3 +73,5 @@ D:\hoctap\ecommerce-microservice\src\Services\Basket.API\bin\Debug\net6.0\runtim
 D:\hoctap\ecommerce-microservice\src\Services\Basket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\hoctap\ecommerce-microservice\src\Services\Basket.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\hoctap\ecommerce-microservice\src\Services\Basket.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\hoctap\ecommerce-microservice\src\Services\Basket.API\obj\Debug\net6.0\Basket.API.sourcelink.json
+D:\hoctap\ecommerce-microservice\src\Services\Basket.API\obj\Debug\net6.0\Basket.API.csproj.Up2Date

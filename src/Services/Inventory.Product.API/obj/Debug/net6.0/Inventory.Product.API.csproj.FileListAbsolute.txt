@@ -24,7 +24,6 @@ D:\hoctap\ecommerce-microservice\src\Services\Inventory.Product.API\obj\Debug\ne
 D:\hoctap\ecommerce-microservice\src\Services\Inventory.Product.API\obj\Debug\net6.0\staticwebassets.build.json
 D:\hoctap\ecommerce-microservice\src\Services\Inventory.Product.API\obj\Debug\net6.0\staticwebassets.development.json
 D:\hoctap\ecommerce-microservice\src\Services\Inventory.Product.API\obj\Debug\net6.0\scopedcss\bundle\Inventory.Product.API.styles.css
-D:\hoctap\ecommerce-microservice\src\Services\Inventory.Product.API\obj\Debug\net6.0\Inventory.Product.API.csproj.CopyComplete
 D:\hoctap\ecommerce-microservice\src\Services\Inventory.Product.API\obj\Debug\net6.0\Inventory.Product.API.dll
 D:\hoctap\ecommerce-microservice\src\Services\Inventory.Product.API\obj\Debug\net6.0\refint\Inventory.Product.API.dll
 D:\hoctap\ecommerce-microservice\src\Services\Inventory.Product.API\obj\Debug\net6.0\Inventory.Product.API.pdb
@@ -58,3 +57,5 @@ D:\hoctap\ecommerce-microservice\src\Services\Inventory.Product.API\bin\Debug\ne
 D:\hoctap\ecommerce-microservice\src\Services\Inventory.Product.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 D:\hoctap\ecommerce-microservice\src\Services\Inventory.Product.API\bin\Debug\net6.0\Common.Logging.dll
 D:\hoctap\ecommerce-microservice\src\Services\Inventory.Product.API\bin\Debug\net6.0\Common.Logging.pdb
+D:\hoctap\ecommerce-microservice\src\Services\Inventory.Product.API\obj\Debug\net6.0\Inventory.Product.API.sourcelink.json
+D:\hoctap\ecommerce-microservice\src\Services\Inventory.Product.API\obj\Debug\net6.0\Inventor.94A9A69E.Up2Date

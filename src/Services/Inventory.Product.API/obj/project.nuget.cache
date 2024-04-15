@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ztPYaRi92PchI4oxf3MmAHmMood41jDDzczPzQV/9ii2jpBC9B/raeTlcNf9lWdUFwwgp6XB2p5HsrmpcU7TEg==",
+  "dgSpecHash": "BTYrQuWtZFW07fu3O75PhUOQfCrt/ibGozfLnXFJ3FnzHFnqX9fpoeQZzxhlaclk/34p0pVPjSEPMtaVKhPc6w==",
   "success": true,
   "projectFilePath": "D:\\hoctap\\ecommerce-microservice\\src\\Services\\Inventory.Product.API\\Inventory.Product.API.csproj",
   "expectedPackageFiles": [

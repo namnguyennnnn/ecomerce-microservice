@@ -28,3 +28,4 @@ D:\hoctap\ecommerce-microservice\src\WebApps\WebHealthStatus\obj\Debug\net6.0\re
 D:\hoctap\ecommerce-microservice\src\WebApps\WebHealthStatus\obj\Debug\net6.0\WebHealthStatus.pdb
 D:\hoctap\ecommerce-microservice\src\WebApps\WebHealthStatus\obj\Debug\net6.0\WebHealthStatus.genruntimeconfig.cache
 D:\hoctap\ecommerce-microservice\src\WebApps\WebHealthStatus\obj\Debug\net6.0\ref\WebHealthStatus.dll
+D:\hoctap\ecommerce-microservice\src\WebApps\WebHealthStatus\obj\Debug\net6.0\WebHealthStatus.sourcelink.json

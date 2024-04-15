@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "T/dCAGJ3xgR5D2UQ3c8SyJ7lwIXxlus0EJZB+9mHmAVO1lYZurYyvMWYofPQNSir4DI6iGJHFAgQzbGj4plKAA==",
+  "dgSpecHash": "4ZJ6G2kTb/xGudCr4Tyk9LBL/JAzCf7oHmvkt33W9WKtROnHK3j6E0VUmhBgrYkJ/gkuf2aWywYCyVOtZdFSGw==",
   "success": true,
   "projectFilePath": "D:\\hoctap\\ecommerce-microservice\\src\\Services\\Basket.API\\Basket.API.csproj",
   "expectedPackageFiles": [

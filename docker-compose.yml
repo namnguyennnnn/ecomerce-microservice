@@ -51,6 +51,12 @@ services:
     build: 
       context: .
       dockerfile: src/Services/Basket.API/Dockerfile
+
+  ordering.api: 
+    image: ${DOCKER_REGISTRY-}ordering-api
+    build: 
+      context: .
+      dockerfile: src/Services/Ordering/Ordering.API/Dockerfile
 #network sections
 networks:
   default:

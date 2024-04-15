@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fWNyejmHIDKT/ZOmcWuqcVlp/D2aqeSlLo2Qu8AC6w7aqcXzKjK+yZwaMqDoYwKFQJiE8/qRXt9WUobcugc3nw==",
+  "dgSpecHash": "g5r7ttWsNYMKAzyA+OU/I6bUl7nHATZNfHjTRNSH/WL39CVKsBWXq7ydTB+trhBT5gXUXuiYAtUevqBTfziGmQ==",
   "success": true,
   "projectFilePath": "D:\\hoctap\\ecommerce-microservice\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj",
   "expectedPackageFiles": [],

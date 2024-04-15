@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EventBus.Messages
 build_property.ProjectDir = D:\hoctap\ecommerce-microservice\src\BuildingBlocks\EventBus.Messages\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -12,4 +12,5 @@ D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net
 D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\bin\Debug\net6.0\Contracts.dll
 D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\bin\Debug\net6.0\Contracts.pdb
 D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
-D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\Infrastructure.sourcelink.json
+D:\hoctap\ecommerce-microservice\src\BuildingBlocks\Infrastructure\obj\Debug\net6.0\Infrastr.15EFFBFE.Up2Date
